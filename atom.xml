@@ -10,7 +10,7 @@
         <link rel="alternate" href="https://drizzle042425.github.io/2023/04/14/first/"/>
         <content type="html">&lt;h1 id=&#34;一级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一级标题&#34;&gt;#&lt;/a&gt; 一级标题&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;事例&lt;br /&gt;
+&lt;li&gt;事例&lt;br&gt;
 骚话&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
@@ -18,9 +18,9 @@
 &lt;/blockquote&gt;
 &lt;h1 id=&#34;二级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二级标题&#34;&gt;#&lt;/a&gt; 二级标题&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;python&lt;br /&gt;
-import gmpy2&lt;br /&gt;
-a = int (input (&amp;quot;请输入一个数字&amp;quot;))&lt;br /&gt;
+&lt;li&gt;python&lt;br&gt;
+import gmpy2&lt;br&gt;
+a = int (input (&amp;quot;请输入一个数字&amp;quot;))&lt;br&gt;
 print(gmpy2.isqrt(n))&lt;/li&gt;
 &lt;/ul&gt;
 </content>
